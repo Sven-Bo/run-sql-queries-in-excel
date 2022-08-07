@@ -4,7 +4,7 @@ Did you know that you can use an SQL formula in Excel? Learn in this video how t
 
 ## Video Tutorial
 ..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/pXbvHdWRlJM/0.jpg)](https://youtu.be/pXbvHdWRlJM)
 
 ## Demo
 ![Demo](/demo.png?raw=true "Demo")
