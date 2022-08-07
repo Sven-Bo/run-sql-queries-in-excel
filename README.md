@@ -3,7 +3,6 @@
 Did you know that you can use an SQL formula in Excel? Learn in this video how to run SQL queries in Excel. You don't have to be a programmer to be able to get the most out of SQL. In this video, you'll learn how to add the SQL formula to your Excel application. In particular, we will use the Python package xlwings and the xlwings Excel add-in. After setting everything up, I will walk you through some practical examples and share my tips and tricks for using SQL in Excel..
 
 ## Video Tutorial
-..will follow soon!
 [![YouTube Video](https://img.youtube.com/vi/pXbvHdWRlJM/0.jpg)](https://youtu.be/pXbvHdWRlJM)
 
 ## Demo
